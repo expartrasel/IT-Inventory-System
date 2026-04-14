@@ -24,6 +24,10 @@ A professional, enterprise-level IT Inventory Management System built with Djang
 
 ## 🚀 How to Run Locally
 
+Admin password :
+Username: admin
+Password: admin
+
 If you want to run this project on your local machine, follow these simple steps:
 
 1. **Clone the repository:**
