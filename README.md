@@ -24,6 +24,19 @@ A professional, enterprise-level IT Inventory Management System built with Djang
 
 ## 🚀 How to Run Locally
 
+
+Extract the ZIP file or Clone the repository.
+
+Open terminal in the project folder.
+
+Install all requirements using: pip install -r requirements.txt
+
+Run the project: python manage.py runserver
+
+Access the Dashboard: http://127.0.0.1:8000/
+
+Admin Panel: http://127.0.0.1:8000/admin/
+
 Admin password :
 Username: admin
 Password: admin
