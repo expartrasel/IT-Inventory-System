@@ -13,3 +13,12 @@ ENV/
 
 .vscode/
 .idea/
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Local Netlify folder
+.netlify
+test-results/
+playwright-report/
